@@ -1,6 +1,6 @@
-Simple Blog
-React Js as Frontend
-Node Js as Backend
+Simple Blog <br />
+React Js as Frontend <br />
+Node Js as Backend <br />
 
 
 ### BLOG
